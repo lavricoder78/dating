@@ -1,5 +1,9 @@
 # Dating
 
-Step 1 ====> npm i
+Step 1 ====> 
 
-Step 2 ====> gulp
+	npm i
+
+Step 2 ====> 
+
+	gulp
