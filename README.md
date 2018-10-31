@@ -1,4 +1,4 @@
-# dating
+# Dating
 
 Step 1 ====> npm i
 
